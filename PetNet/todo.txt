@@ -1,0 +1,21 @@
+Todo
+    - Creat virtual env --> Done
+    -Install Django and setup project
+    -Init database, super user, test run
+    -Creat core app for base pages
+    -Creat app for userprofile
+    -Creat app for products
+        -Add category model
+    -List out newest products on the front page
+    -Product detail view -----> Done!
+    -Category view ---> done
+    -simple search
+    -vendor detail page
+    -Make it possible to sign up, log in and log out
+    -Creat my accout page
+    -Add product to the cart
+    -View cart
+    -Checkout
+    -Implement payment gateway
+    -Admin pages for the vendors
+    -Deploy project
