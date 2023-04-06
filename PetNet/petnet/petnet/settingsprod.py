@@ -24,9 +24,9 @@ SECRET_KEY = 'django-insecure-wr+@7h&wp1if+wj8_ys$^n)p*6@*c0%-ue*6jy!^ipx$w$npwe
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-
 ALLOWED_HOSTS = []
-
+ 
+#a comment to test source control part of vs code
 CART_SESSION_ID = 'cart'
 SESSION_COOKIE_AGE = 86400
 
